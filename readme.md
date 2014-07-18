@@ -1,5 +1,3 @@
-Facebook social network module for [SamsonPHP](http://samsonphp.com) framework
-
-Using simple two step OAuth authorization scheme
+Shopping cart module for [SamsonPHP](http://samsonphp.com) framework
 
 Developed by [SamsonOS](http://samsonos.com/)
